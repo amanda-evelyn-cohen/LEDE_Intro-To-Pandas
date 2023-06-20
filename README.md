@@ -18,5 +18,3 @@ I was given the .csv files 'continent_facts' and 'countries' and worked in a Jup
 
 Student: Amanda Cohen
 Program Director: Jonathan Soma, Columbia University
-
- 
